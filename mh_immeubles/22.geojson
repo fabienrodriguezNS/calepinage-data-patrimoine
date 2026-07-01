@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"xy_coordinate_resolution": 1e-06,
-"features": [
-{ "type": "Feature", "properties": { "idTigre": 54700, "idApp": "I4BN7J", "appTigre": 1, "type": "Immeuble", "parcelle": "(section : ZA , (section : ZB , num : 0017) , num : 0019) , num : 0020) , num : 0021) , num : 0022)", "appelation": "Chapelle Saint-Samson", "categorie": "architecture religieuse", "localisati": "56146|Neulliac", "ressource": null, "evenement": "inscription le 18/02/2021", "legende": "Inscrit", "precision": null, "statut": "commune", "maj": "2023-2-17", "region": "53", "departemen": "56", "commune": "Neulliac" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -2.992023, 48.160865 ], [ -2.991958, 48.160847 ], [ -2.991908, 48.160839 ], [ -2.991867, 48.160841 ], [ -2.991836, 48.160841 ], [ -2.991751, 48.160827 ], [ -2.991797, 48.160736 ], [ -2.991852, 48.160741 ], [ -2.992045, 48.16076 ], [ -2.992023, 48.160865 ] ] ], [ [ [ -2.994587, 48.160277 ], [ -2.994504, 48.160275 ], [ -2.994502, 48.160301 ], [ -2.994425, 48.160299 ], [ -2.994425, 48.16027 ], [ -2.994356, 48.160269 ], [ -2.994313, 48.160256 ], [ -2.994315, 48.160213 ], [ -2.994358, 48.160196 ], [ -2.994592, 48.1602 ], [ -2.994587, 48.160277 ] ] ] ] } }
-]
-}
